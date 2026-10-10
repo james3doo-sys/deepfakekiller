@@ -1,0 +1,7 @@
+weights/*.pth
+temp_youtube_video.*
+__pycache__/
+*.pyc
+.DS_Store
+venv/
+deepfake_env/
